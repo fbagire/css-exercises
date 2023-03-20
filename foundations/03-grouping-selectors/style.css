@@ -1,0 +1,13 @@
+.cli, .nocli{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.cli{
+    background-color: black;
+    color: white;
+}
+
+.nocli {
+    background-color: yellow;
+}
